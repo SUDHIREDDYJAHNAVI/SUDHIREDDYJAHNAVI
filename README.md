@@ -62,34 +62,9 @@ I am an **AI/ML Developer | Machine Learning Enthusiast | Aspiring AI Engineer**
 
 ---
 
-# 🚀 Featured Projects:
-
-### 🤖 Customer Churn Prediction
-
-Machine learning system for predicting customer churn probability using **XGBoost and machine learning techniques**.
-
-### 📚 Research Intelligence Platform
-
-AI-powered platform for **research document processing, retrieval and comparison** using NLP, embeddings and RAG concepts.
-
-### 🎫 Automatic Ticket Assignment
-
-Machine learning-based system for automatically classifying and assigning customer support tickets.
-
-### 💳 Credit Card Fraud Detection
-
-Machine learning project for identifying potentially fraudulent transactions.
 
 ---
 
-# 🎯 Currently Learning:
-
-🤖 Artificial Intelligence  
-🧠 Machine Learning & Deep Learning  
-✨ Generative AI  
-📚 Natural Language Processing  
-🔎 Retrieval-Augmented Generation (RAG)  
-⚙️ MLOps
 
 ---
 
