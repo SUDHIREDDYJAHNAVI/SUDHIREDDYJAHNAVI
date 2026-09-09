@@ -56,16 +56,5 @@ I am an **AI/ML Developer | Machine Learning Enthusiast | Aspiring AI Engineer**
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-
-
-
----
-
-
----
-
-
----
 
 ⭐ **Thanks for visiting my profile!**
